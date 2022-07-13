@@ -1,0 +1,8 @@
+D:\programing\JokeBot\JokeBot\bin\Debug\JokeBot.exe.config
+D:\programing\JokeBot\JokeBot\bin\Debug\JokeBot.exe
+D:\programing\JokeBot\JokeBot\bin\Debug\JokeBot.pdb
+D:\programing\JokeBot\JokeBot\obj\Debug\JokeBot.csproj.AssemblyReference.cache
+D:\programing\JokeBot\JokeBot\obj\Debug\JokeBot.csproj.SuggestedBindingRedirects.cache
+D:\programing\JokeBot\JokeBot\obj\Debug\JokeBot.csproj.CoreCompileInputs.cache
+D:\programing\JokeBot\JokeBot\obj\Debug\JokeBot.exe
+D:\programing\JokeBot\JokeBot\obj\Debug\JokeBot.pdb

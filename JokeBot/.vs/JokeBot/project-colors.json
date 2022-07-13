@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "421e27bb-34fb-4d0d-a0a1-1647e4ff9d60": {
+      "ProjectGuid": "421e27bb-34fb-4d0d-a0a1-1647e4ff9d60",
+      "DisplayName": "JokeBot",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
